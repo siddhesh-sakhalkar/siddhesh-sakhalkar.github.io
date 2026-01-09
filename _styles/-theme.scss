@@ -52,15 +52,3 @@
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }
-
-body {
-  font-family: var(--body);
-  font-size: 1rem;        // Google Search body size (~16px)
-  font-weight: var(--regular);
-  line-height: 1.6;       // Google-like readability
-}
-
-p {
-  font-size: inherit;
-  line-height: inherit;
-}
