@@ -5,6 +5,6 @@
 
   # siddhesh-sakhalkar's Website
 
-  Visit **[siddhesh-sakhalkar.github.io/Siddhesh-Sakhalkar-Lab-Website](https://siddhesh-sakhalkar.github.io/Siddhesh-Sakhalkar-Lab-Website)** 🚀
+  Visit **[siddhesh-sakhalkar.github.io/SakhalkarLab](https://siddhesh-sakhalkar.github.io/SakhalkarLab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
