@@ -27,7 +27,7 @@ One line description of publications.
 {%
   include feature.html
   image="images/photo.jpg"
-  link="publocations"
+  link="publications"
   title="Publications"
   text=text
 %}
