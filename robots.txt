@@ -1,1 +1,1 @@
-Sitemap: https://siddhesh-sakhalkar.github.io/SakhalkarLab/sitemap.xml
+Sitemap: https://siddhesh-sakhalkar.github.io/sitemap.xml
