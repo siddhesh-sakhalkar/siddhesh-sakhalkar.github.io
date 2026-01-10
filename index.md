@@ -13,7 +13,7 @@ We utilize a combination of physics-based and data-driven techniques to investig
 
 {% capture text %}
 
-One line description of research.
+Key areas of interest include Scientific Machine Learning (SciML) for engineering simulations, Micro- and Nanoscale Fluid Mechanics, Structural Mechanics /& Dynamics and Tribology.
 
 {%
   include button.html
@@ -38,7 +38,7 @@ One line description of research.
 
 {% capture text %}
 
-One line description of people.
+As a new lab, we are actively looking for interested undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team!
 
 {%
   include button.html
@@ -61,7 +61,6 @@ One line description of people.
 
 {% capture text %}
 
-One line description of publications.
 
 {%
   include button.html
