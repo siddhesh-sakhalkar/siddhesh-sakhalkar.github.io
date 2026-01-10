@@ -28,7 +28,7 @@ header a {
 }
 
 .logo {
-  height: 40px;
+  height: 52px;
 }
 
 .logo > * {
@@ -50,7 +50,7 @@ header a {
 }
 
 .title {
-  font-size: var(--xl);
+  font-size: var(--xxl);
 }
 
 .subtitle {
