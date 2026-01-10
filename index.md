@@ -15,7 +15,7 @@ We utilize a combination of physics-based and data-driven techniques to investig
 
 {% include section.html %}
 
-## **<span style="font-size: 1.5em;">Highlights</span>**
+## **<span style="font-size: 1.3em;">Highlights</span>**
 
 {% capture text %}
 
