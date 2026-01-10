@@ -118,15 +118,20 @@ nav > a:hover {
 }
 
 header[data-big] {
-  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
   align-items: center;
-  flex-direction: column;
   padding: 50px 20px;
   top: unset;
 }
 header[data-big] .home {
-  flex-direction: column;
+  flex-direction: row;
   flex-grow: 0;
+}
+header[data-big] nav {
+  margin-left: auto;
+  justify-content: flex-end;
 }
 header[data-big] .logo {
   height: 80px;
@@ -134,8 +139,8 @@ header[data-big] .logo {
 }
 header[data-big] .title-text {
   flex-direction: column;
-  align-items: center;
-  text-align: center;
+  align-items: flex-start;
+  text-align: left;
 }
 header[data-big] .title {
   font-size: var(--xxl);
