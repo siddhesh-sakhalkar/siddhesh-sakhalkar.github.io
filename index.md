@@ -10,8 +10,7 @@ We utilize a combination of physics-based and data-driven techniques to investig
 {%
   include figure.html
   image="images/background.jpg"
-  caption="Overview of our research"
-  width="400px"
+  width="600px"
 %}
 
 {% include section.html %}
