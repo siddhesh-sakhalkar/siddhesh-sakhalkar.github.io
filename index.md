@@ -7,6 +7,13 @@ Welcome to the M<sup>3</sup> Lab at IIT Madras! We work at the intersection of m
 
 We utilize a combination of physics-based and data-driven techniques to investigate complex static and dynamic phenomena in solid and fluid mechanics. These tools are applied to a broad range of applications including microfluidics, hydrodynamic and elasto-hydrodynamic lubrication, data storage technologies (such as hard disk drives), hardware devices and micro-electro-mechanical systems (MEMS). Please explore the Research and Publications sections to learn more about our ongoing work.
 
+{%
+  include figure.html
+  image="images/background.jpg"
+  caption="Overview of our research"
+  width="400px"
+%}
+
 {% include section.html %}
 
 ## Highlights
