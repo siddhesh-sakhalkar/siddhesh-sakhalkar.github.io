@@ -163,17 +163,3 @@
   orcid: 0000-0001-7726-0482
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.4271/2014-01-1776
-  title: Correct Title
-  authors:
-  - Siddhesh Sakhalkar
-  - Parveen Dhillon
-  - Pranay Kumar
-  - Soovadeep Bakshi
-  - Puneet Singh Arora
-  publisher: SAE Technical Paper Series
-  date: '2014-04-01'
-  link: https://doi.org/hbjmsh
-  orcid: 0000-0001-7726-0482
-  plugin: sources.py
-  file: sources.yaml
