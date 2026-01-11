@@ -12,17 +12,6 @@
   date: '2024-04-01'
   link: https://doi.org/hbjmrw
   orcid: 0000-0001-7726-0482
-  plugin: sources.py
-  file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0888327024001006-ga1_lrg.jpg
-- id: isbn:9780791887219
-  title: 'Proceedings of the ASME 2023 32nd Conference on Information Storage and
-    Processing Systems (ISPS2023): August 28-29, 2023, Milpitas, California'
-  authors: []
-  publisher: the American Society of Mechanical Engineers
-  date: '2023-01-01'
-  link: ''
-  orcid: 0000-0001-7726-0482
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1063/5.0092170
@@ -162,18 +151,6 @@
   orcid: 0000-0001-7726-0482
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s11249-018-1016-z
-  title: 'Correction to: A Model for Lubricant Transfer from Media to Head During
-    Heat-Assisted Magnetic Recording (HAMR) Writing'
-  authors:
-  - Siddhesh V. Sakhalkar
-  - David B. Bogy
-  publisher: Tribology Letters
-  date: '2018-04-16'
-  link: https://doi.org/hbjmsg
-  orcid: 0000-0001-7726-0482
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/s11249-017-0952-3
   title: A Model for Lubricant Transfer from Media to Head During Heat-Assisted Magnetic
     Recording (HAMR) Writing
@@ -183,35 +160,6 @@
   publisher: Tribology Letters
   date: '2017-11-13'
   link: https://doi.org/gcmxmx
-  orcid: 0000-0001-7726-0482
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.4271/2014-01-1776
-  title: Implementation of an Electronic Differential Using Torque Vectoring
-  authors:
-  - Siddhesh Sakhalkar
-  - Parveen Dhillon
-  - Pranay Kumar
-  - Soovadeep Bakshi
-  - Puneet Singh Arora
-  publisher: SAE Technical Paper Series
-  date: '2014-04-01'
-  link: https://doi.org/hbjmsh
-  orcid: 0000-0001-7726-0482
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.4271/2014-01-1781
-  title: Powertrain Model for Selection of Reduction Ratio and Estimation of Energy
-    Requirement
-  authors:
-  - Siddhesh Sakhalkar
-  - Parveen Dhillon
-  - Soovadeep Bakshi
-  - Pranay Kumar
-  - Puneet Singh Arora
-  publisher: SAE Technical Paper Series
-  date: '2014-04-01'
-  link: https://doi.org/hbjmsj
   orcid: 0000-0001-7726-0482
   plugin: orcid.py
   file: orcid.yaml
