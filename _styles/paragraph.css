@@ -1,8 +1,8 @@
 p {
   margin: 20px 0;
   text-align: justify;
-  line-height: var(--compact);
-  font-size: 1.1rem;
+  line-height: 1.75;
+  font-size: 1.15rem;
 }
 
 /*# sourceMappingURL=paragraph.css.map */
