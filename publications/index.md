@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Test change 3
+Test change 4
 
 {% include section.html %}
 
@@ -39,13 +39,13 @@ Test change 3
   {% endfor %}
 </div> -->
 
-<div class="accordion">
+<!-- <div class="accordion">
   <div class="accordion-item">
     <button class="accordion-button" onclick="toggleAccordion('year-2019')">2019</button>
     <div id="year-2019" class="accordion-content">
       <!-- Publications for 2019 -->
     </div>
   </div>
-</div>
+</div> -->
 
 {% include list.html data="citations" component="citation" style="rich" %}
