@@ -6,11 +6,12 @@ $wrap: 800px;
 
 .citation-container {
   container-type: inline-size;
+  margin-bottom: 10px; // compact setting for citation page
 }
 
 .citation {
   display: flex;
-  margin: 20px 0;
+  margin: 10px 0; // compact setting for citation page
   border-radius: var(--rounded);
   background: var(--background);
   overflow: hidden;
@@ -51,8 +52,8 @@ $wrap: 800px;
 .citation-details,
 .citation-description {
   width: 100%;
-  font-size: 1.0rem;
-  line-height: 1.0;
+  font-size: 1.0rem; // compact setting for citation page
+  line-height: 1.0; // compact setting for citation page
 }
 
 .citation-title {
