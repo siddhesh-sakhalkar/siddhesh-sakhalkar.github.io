@@ -11,30 +11,30 @@
   remove: true
 
 - title: "Management of actuator dynamics in a multiple actuator hard disk drive with an unequal number of heads on the two outer arms of each actuator"
-  publisher: "US Patent 11664047B2"
   authors:
     - Manoj Keshavan
     - Siddhesh Vivek Sakhalkar
     - Hitoshi Shindo
+  publisher: "US Patent 11664047B2"
   date: "2022-05-31"
   link: "https://patents.google.com/patent/US11664047B2/en"
 
 - title: "Data storage device independently driving outer and inner fine actuators"
-  publisher: "US Patent 11482254B2, China Patent 202111350685.9A"
   authors: 
     - Manoj Keshavan
     - Yanning Liu
     - Hitoshi Shindo
     - Siddhesh Vivek Sakhalkar
+  publisher: "US Patent 11482254B2, China Patent 202111350685.9A"
   date: "2022-10-25"
   link: "https://patents.google.com/patent/US11482254B2/en"
 
 - title: "Anchoring structure for improved structural dynamics of actuators in a multi-actuator hard disk drive"
-  publisher: "US Patent 11942121B2"
   authors:
     - Jung-Seo Park
     - Siddhesh Vivek Sakhalkar
     - Thomas J. Hitchner
     - Arman V. Golgolab
+  publisher: "US Patent 11942121B2"
   date: "2026-03-26"
   link: "https://patents.google.com/patent/US11942121B2/en"
