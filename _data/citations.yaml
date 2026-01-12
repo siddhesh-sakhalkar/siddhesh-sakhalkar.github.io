@@ -163,40 +163,37 @@
   orcid: 0000-0001-7726-0482
   plugin: orcid.py
   file: orcid.yaml
-- type: patent
-  title: Management of actuator dynamics in a multiple actuator hard disk drive with
+- title: Management of actuator dynamics in a multiple actuator hard disk drive with
     an unequal number of heads on the two outer arms of each actuator
-  patent-number: US11664047B2
-  author:
+  publisher: US Patent 11664047B2
+  authors:
   - Manoj Keshavan
   - Siddhesh Vivek Sakhalkar
   - Hitoshi Shindo
-  issued: '2022-05-31'
-  url: https://patents.google.com/patent/US11664047B2/en
+  date: '2022-05-31'
+  link: https://patents.google.com/patent/US11664047B2/en
   plugin: sources.py
   file: sources.yaml
-- type: article
-  title: Data storage device independently driving outer and inner fine actuators
-  author:
+- title: Data storage device independently driving outer and inner fine actuators
+  publisher: US Patent 11482254B2, China Patent 202111350685.9A
+  authors:
   - Manoj Keshavan
   - Yanning Liu
   - Hitoshi Shindo
   - Siddhesh Vivek Sakhalkar
-  issued: '2022-10-25'
-  note: 'Patents cited: US11482254B2, CN202111350685.9A'
-  url: https://patents.google.com/patent/US11482254B2/en
+  date: '2022-10-25'
+  link: https://patents.google.com/patent/US11482254B2/en
   plugin: sources.py
   file: sources.yaml
-- type: patent
-  title: Anchoring structure for improved structural dynamics of actuators in a multi-actuator
+- title: Anchoring structure for improved structural dynamics of actuators in a multi-actuator
     hard disk drive
-  patent-number: US11942121B2
-  author:
+  publisher: US Patent 11942121B2
+  authors:
   - Jung-Seo Park
   - Siddhesh Vivek Sakhalkar
   - Thomas J. Hitchner
   - Arman V. Golgolab
-  issued: '2026-03-26'
-  url: https://patents.google.com/patent/US11942121B2/en
+  date: '2026-03-26'
+  link: https://patents.google.com/patent/US11942121B2/en
   plugin: sources.py
   file: sources.yaml
