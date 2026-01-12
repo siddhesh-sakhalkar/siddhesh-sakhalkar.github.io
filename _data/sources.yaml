@@ -12,10 +12,21 @@
 
 - type: patent
   title: "Management of actuator dynamics in a multiple actuator hard disk drive with an unequal number of heads on the two outer arms of each actuator"
-  patent-number: "US11348607B1"
+  patent-number: "US11664047B2"
   author:
     - Manoj Keshavan
     - Siddhesh Vivek Sakhalkar
     - Hitoshi Shindo
   issued: "2022-05-31"
-  url: "https://patents.google.com/patent/US11348607B1/en"
+  url: "https://patents.google.com/patent/US11664047B2/en"
+
+  - type: patent
+  title: "Data storage device independently driving outer and inner fine actuators"
+  patent-number: "US11482254B2"
+  author:
+    - Manoj Keshavan
+    - Yanning Liu
+    - Hitoshi Shindo
+    - Siddhesh Vivek Sakhalkar
+  issued: "2022-10-25"
+  url: "https://patents.google.com/patent/US11482254B2/en"
