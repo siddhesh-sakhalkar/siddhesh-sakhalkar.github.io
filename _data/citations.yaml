@@ -163,3 +163,15 @@
   orcid: 0000-0001-7726-0482
   plugin: orcid.py
   file: orcid.yaml
+- type: patent
+  title: Management of actuator dynamics in a multiple actuator hard disk drive with
+    an unequal number of heads on the two outer arms of each actuator
+  patent-number: US11348607B1
+  author:
+  - Manoj Keshavan
+  - Siddhesh Vivek Sakhalkar
+  - Hitoshi Shindo
+  issued: '2022-05-31'
+  url: https://patents.google.com/patent/US11348607B1/en
+  plugin: sources.py
+  file: sources.yaml
