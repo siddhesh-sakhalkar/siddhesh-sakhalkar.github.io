@@ -163,8 +163,8 @@
   orcid: 0000-0001-7726-0482
   plugin: orcid.py
   file: orcid.yaml
-- title: TEST1 - Management of actuator dynamics in a multiple actuator hard disk
-    drive with an unequal number of heads on the two outer arms of each actuator
+- title: Management of actuator dynamics in a multiple actuator hard disk drive with
+    an unequal number of heads on the two outer arms of each actuator
   authors:
   - Manoj Keshavan
   - Siddhesh Vivek Sakhalkar
@@ -193,7 +193,31 @@
   - Thomas J. Hitchner
   - Arman V. Golgolab
   publisher: US Patent 11942121B2
-  date: '2026-03-26'
+  date: '2024-03-26'
   link: https://patents.google.com/patent/US11942121B2/en
+  plugin: sources.py
+  file: sources.yaml
+- title: Extended center stiffener plate for improved structural dynamics of actuators
+    in a multi-actuator hard disk drive
+  authors:
+  - Jung-Seo Park
+  - Siddhesh Vivek Sakhalkar
+  - Arman V. Golgolab
+  - Fred Golinveaux
+  publisher: US Patent 12176013B2
+  date: '2024-12-24'
+  link: https://patents.google.com/patent/US12176013B2/en
+  plugin: sources.py
+  file: sources.yaml
+- title: Center structure having attachment support for an actuator in a multi-actuator
+    hard disk drive
+  authors:
+  - Jung-Seo Park
+  - Thomas J. Hitchner
+  - Robert McNab
+  - Siddhesh Vivek Sakhalkar
+  publisher: US Patent 12230303B2
+  date: '2025-02-18'
+  link: https://patents.google.com/patent/US12230303B2/en
   plugin: sources.py
   file: sources.yaml
