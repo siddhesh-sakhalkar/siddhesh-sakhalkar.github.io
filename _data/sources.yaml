@@ -21,12 +21,12 @@
   url: "https://patents.google.com/patent/US11664047B2/en"
 
   - type: patent
-  title: "Data storage device independently driving outer and inner fine actuators"
-  patent-number: "US11482254B2"
-  author:
-    - Manoj Keshavan
-    - Yanning Liu
-    - Hitoshi Shindo
-    - Siddhesh Vivek Sakhalkar
-  issued: "2022-10-25"
-  url: "https://patents.google.com/patent/US11482254B2/en"
+    title: "Data storage device independently driving outer and inner fine actuators"
+    patent-number: "US11482254B2"
+    author:
+      - Manoj Keshavan
+      - Yanning Liu
+      - Hitoshi Shindo
+      - Siddhesh Vivek Sakhalkar
+    issued: "2022-10-25"
+    url: "https://patents.google.com/patent/US11482254B2/en"
