@@ -10,4 +10,12 @@
 - id: isbn:9780791887219
   remove: true
 
--id: patent:US11348607B1
+- type: patent
+  title: "Management of actuator dynamics in a multiple actuator hard disk drive with an unequal number of heads on the two outer arms of each actuator"
+  patent-number: "US11348607B1"
+  author:
+    - Manoj Keshavan
+    - Siddhesh Vivek Sakhalkar
+    - Hitoshi Shindo
+  issued: "2022-05-31"
+  url: "https://patents.google.com/patent/US11348607B1/en"
