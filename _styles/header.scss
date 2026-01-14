@@ -13,8 +13,8 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 25px 20px;
-  //height: 230px; = $logo + padding*2
+  padding: 25px 50px 25px 20px;
+  //height: 230px; = $logo + padding_top + padding_bot
   //max-height: 230px;
   box-shadow: var(--shadow);
 
@@ -68,7 +68,7 @@ header a {
 }
 
 .title {
-  font-size: calc(var(--xxl) * 1.5);
+  font-size: calc(var(--xxl) * 1.3);
 }
 
 .subtitle {
