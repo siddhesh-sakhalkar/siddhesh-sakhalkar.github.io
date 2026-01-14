@@ -25,7 +25,11 @@ header a {
 
 .logo {
   height: 140px;
-  flex-shrink: 0;
+}
+
+.logo > * {
+  width: unset;
+  height: 100%;
 }
 
 .title-text {
