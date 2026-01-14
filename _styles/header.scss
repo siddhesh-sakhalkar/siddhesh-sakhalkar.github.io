@@ -75,12 +75,12 @@ header a {
 }
 
 .title {
-  font-size: calc(var(--xxl) * 1.3);
+  font-size: calc(var(--xxl) * 1.2);
 }
 
 .subtitle {
   opacity: 0.65;
-  font-weight: var(--thin);
+  font-weight: calc(var(--thin)*0.9);
 }
 
 .nav-toggle {
