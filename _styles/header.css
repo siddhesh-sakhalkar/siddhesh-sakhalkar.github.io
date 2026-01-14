@@ -5,6 +5,7 @@ header {
   flex-wrap: wrap;
   gap: 20px;
   padding: 55px 55px;
+  max-height: 100px;
   box-shadow: var(--shadow);
 }
 
