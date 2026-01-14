@@ -1,4 +1,7 @@
 ---
+title: Home
+nav:
+  order: 1
 ---
 
 # **M<sup>3</sup> Lab: Mechanics, Modeling and Machine Learning Lab**
