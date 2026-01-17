@@ -31,7 +31,7 @@
 .photo-bio__name {
   margin: 0 0 0.6rem 0;
   font-size: 1.6rem;
-  line-height: 1.15;
+  line-height: 1.25;
   font-weight: 800;
   border: 0;
   text-decoration: none;
@@ -40,14 +40,15 @@
 .photo-bio__subtitle {
   margin: 0 0 0.6rem 0;
   font-size: 1.3rem;
-  line-height: 1.15;
+  line-height: 1.25;
+  font-weight: 500;
   border: 0;
 }
 
 .photo-bio__details {
   margin: 0;
   font-size: 1.3rem;
-  line-height: 1.15;
+  line-height: 1.25;
   opacity: 1;
   border: 0;
 }
