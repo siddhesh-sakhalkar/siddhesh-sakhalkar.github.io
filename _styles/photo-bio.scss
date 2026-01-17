@@ -12,39 +12,73 @@
 
 .photo-bio__photo {
   width: 150px;
+  max-width: 150px;
   flex: 0 0 150px;
 }
 
 .photo-bio__photo img {
   display: block;
   width: 100%;
+  max-width: 150px;
   height: auto;
   border-radius: 0.75rem;
+  object-fit: cover;
 }
 
 .photo-bio__text {
   min-width: 0;
+  text-align: left; /* prevent any site-wide centering */
+  max-width: 52rem;
 }
 
+/* Typography to match the "right" example */
 .photo-bio__name {
-  margin: 0 0 0.35rem 0;
+  margin: 0 0 0.6rem 0;
+  font-size: 2.1rem;
   line-height: 1.15;
+  font-weight: 800;
+  color: #0b63ce;
+  border: 0;
+  text-decoration: none;
 }
 
 .photo-bio__subtitle {
-  margin: 0 0 0.5rem 0;
-  font-weight: 600;
+  margin: 0 0 0.65rem 0;
+  font-size: 1.25rem;
+  line-height: 1.35;
+  font-weight: 500;
+  color: #111;
+  border: 0;
 }
 
 .photo-bio__details {
+  margin: 0;
+  font-size: 1.25rem;
   line-height: 1.45;
-  opacity: 0.9;
+  font-weight: 500;
+  color: #111;
+  opacity: 1;
+  border: 0;
+}
+
+/* If the name is a link, keep it looking like the name */
+.photo-bio__name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.photo-bio__name a:hover {
+  text-decoration: underline;
 }
 
 /* Size presets */
-.photo-bio--sm .photo-bio__photo { width: 120px; }
-.photo-bio--md .photo-bio__photo { width: 180px; }
-.photo-bio--lg .photo-bio__photo { width: 240px; }
+.photo-bio--sm .photo-bio__photo { width: 120px; max-width: 120px; flex: 0 0 120px; }
+.photo-bio--md .photo-bio__photo { width: 150px; max-width: 150px; flex: 0 0 150px; }
+.photo-bio--lg .photo-bio__photo { width: 240px; max-width: 240px; flex: 0 0 240px; }
+
+.photo-bio--sm .photo-bio__photo img { max-width: 120px; }
+.photo-bio--md .photo-bio__photo img { max-width: 150px; }
+.photo-bio--lg .photo-bio__photo img { max-width: 240px; }
 
 /* Optional right image */
 .photo-bio--right {
@@ -62,8 +96,24 @@
     flex-direction: column;
   }
 
+  .photo-bio__name {
+    font-size: 1.7rem;
+  }
+
+  .photo-bio__subtitle,
+  .photo-bio__details {
+    font-size: 1.05rem;
+  }
+
   .photo-bio--lg .photo-bio__photo,
   .photo-bio--md .photo-bio__photo {
     width: 160px;
+    max-width: 160px;
+    flex: 0 0 160px;
+  }
+
+  .photo-bio--lg .photo-bio__photo img,
+  .photo-bio--md .photo-bio__photo img {
+    max-width: 160px;
   }
 }
