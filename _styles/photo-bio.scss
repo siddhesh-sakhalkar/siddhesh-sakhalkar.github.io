@@ -1,0 +1,65 @@
+/* Photo + description (side-by-side) */
+
+.photo-bio {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin: 1.5rem 0;
+}
+
+.photo-bio__photo {
+  flex: 0 0 auto;
+}
+
+.photo-bio__photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+}
+
+.photo-bio__text {
+  min-width: 0;
+}
+
+.photo-bio__name {
+  margin: 0 0 0.35rem 0;
+  line-height: 1.15;
+}
+
+.photo-bio__subtitle {
+  margin: 0 0 0.5rem 0;
+  font-weight: 600;
+}
+
+.photo-bio__details {
+  line-height: 1.45;
+  opacity: 0.9;
+}
+
+/* Size presets */
+.photo-bio--sm .photo-bio__photo { width: 120px; }
+.photo-bio--md .photo-bio__photo { width: 180px; }
+.photo-bio--lg .photo-bio__photo { width: 240px; }
+
+/* Optional right image */
+.photo-bio--right {
+  flex-direction: row-reverse;
+}
+
+/* Mobile: stack */
+@media (max-width: 640px) {
+  .photo-bio {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .photo-bio--right {
+    flex-direction: column;
+  }
+
+  .photo-bio--lg .photo-bio__photo,
+  .photo-bio--md .photo-bio__photo {
+    width: 160px;
+  }
+}
