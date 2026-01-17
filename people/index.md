@@ -25,3 +25,17 @@ IIT Madras
   image="images/Siddhesh_Sakhalkar_headshot.jpg"
   text=text
 %}
+
+{% include photo_bio.html
+  image="images/Siddhesh_Sakhalkar_headshot.jpg"
+  name="Prof. Siddhesh Sakhalkar"
+  subtitle="Incoming Assistant Professor"
+  details="Department of Mechanical Engineering, IIT Madras"
+%}
+
+{% include photo_bio.html
+  image="images/Siddhesh_Sakhalkar_headshot.jpg"
+  name="Prof. Siddhesh Sakhalkar"
+  subtitle="Incoming Assistant Professor"
+  details="Department of Mechanical Engineering, IIT Madras"
+%}
