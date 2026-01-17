@@ -1,0 +1,43 @@
+{%- comment -%}
+photo_bio.html
+
+Example:
+{% include photo_bio.html
+  image="images/people/grace-gu.jpg"
+  name="Grace X. Gu"
+  subtitle="Associate Professor of Mechanical Engineering"
+  details="Don M. Cunningham Endowed Professorship<br>University of California, Berkeley"
+  align="left"
+%}
+
+Params:
+- image (required): path under your site root
+- name (optional)
+- subtitle (optional)
+- details (optional): can include <br> for line breaks
+- align (optional): left | right (default left)
+- size (optional): sm | md | lg (default md)
+{%- endcomment -%}
+
+{%- assign align = include.align | default: "left" -%}
+{%- assign size = include.size | default: "md" -%}
+
+<div class="photo-bio photo-bio--{{ align }} photo-bio--{{ size }}">
+  <div class="photo-bio__photo">
+    <img src="{{ include.image | relative_url }}" alt="{{ include.name | default: "" | escape }}">
+  </div>
+
+  <div class="photo-bio__text">
+    {%- if include.name -%}
+      <h2 class="photo-bio__name">{{ include.name }}</h2>
+    {%- endif -%}
+
+    {%- if include.subtitle -%}
+      <div class="photo-bio__subtitle">{{ include.subtitle }}</div>
+    {%- endif -%}
+
+    {%- if include.details -%}
+      <div class="photo-bio__details">{{ include.details }}</div>
+    {%- endif -%}
+  </div>
+</div>
