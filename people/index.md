@@ -22,6 +22,6 @@ IIT Madras
 
 {%
   include feature.html
-  image="images/Siddhesh_Sakhalkar_headshot.HEIC"
+  image="images/Siddhesh_Sakhalkar_headshot.jpg"
   text=text
 %}
