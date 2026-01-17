@@ -17,6 +17,7 @@ We are actively looking for motivated undergraduate, graduate (Masters/PhD) and 
   name="Prof. Siddhesh Sakhalkar"
   subtitle="Incoming Assistant Professor"
   details="Department of Mechanical Engineering<br> Indian Institute of Technology (IIT) Madras"
+  size = "lg"
 %}
 
 ### **<span style="font-size: 1.1em;">Bio</span>**
