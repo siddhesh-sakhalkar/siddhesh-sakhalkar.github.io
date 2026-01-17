@@ -16,25 +16,24 @@ We are actively looking for motivated undergraduate, graduate (Masters/PhD) and 
   image="images/Siddhesh_Sakhalkar_headshot.jpg"
   name="Prof. Siddhesh Sakhalkar"
   subtitle="Incoming Assistant Professor"
-  details="Department of Mechanical Engineering<br> Indian Institute of Technology (IIT) Madras"
+  details="Department of Mechanical Engineering<br> Indian Institute of Technology (IIT) Madras <br> 
+  <!-- Add social media icons here -->
+  <div class="social-links">
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank" class="linkedin-link">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="mailto:siddheshsakhalkar1992@gmail.com" class="email-link">
+      <i class="fas fa-envelope"></i>
+    </a>
+    <a href="https://orcid.org/0000-0003-0000-0000" target="_blank" class="orcid-link">
+      <i class="fab fa-orcid"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=xyz" target="_blank" class="google-scholar-link">
+      <i class="fas fa-chalkboard-teacher"></i>
+    </a>
+  </div>"
   size = "lg"
 %}
-
-<!-- Add social media icons here -->
-<div class="social-links">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" class="linkedin-link">
-    <i class="fab fa-linkedin"></i>
-  </a>
-  <a href="mailto:siddheshsakhalkar1992@gmail.com" class="email-link">
-    <i class="fas fa-envelope"></i>
-  </a>
-  <a href="https://orcid.org/0000-0003-0000-0000" target="_blank" class="orcid-link">
-    <i class="fab fa-orcid"></i>
-  </a>
-  <a href="https://scholar.google.com/citations?user=xyz" target="_blank" class="google-scholar-link">
-    <i class="fas fa-chalkboard-teacher"></i>
-  </a>
-</div>
 
 ### **<span style="font-size: 1.1em;">Bio</span>**
 Dr. Siddhesh Sakhalkar is an incoming Assistant Professor in the Department of Mechanical Engineering at the Indian Institute of Technology Madras. He received his B.Tech. in Mechanical Engineering from Indian Institute of Technology Bombay (2014) and his M.S. and Ph.D. in Mechanical Engineering from the University of California, Berkeley (2020). He has seven years of industry experience, including five years as a Mechanical Simulation Engineer at Western Digital in San Jose, USA (2020&ndash;2025), and two years as a Mechanical Static Engineer at Shell in Bangalore, India (2014&ndash;2016). 
