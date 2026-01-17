@@ -11,17 +11,25 @@ We are actively looking for motivated undergraduate, graduate (Masters/PhD) and 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% capture text %}
 
-{% include section.html %}
+Prof. Siddhesh Sakhalkar is the Principal Investigator of the M<sup>3</sup> Lab. As a new lab, we are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team!
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{%
+  include button.html
+  link="people"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="People"
+  text=text
+%}
