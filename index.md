@@ -51,7 +51,7 @@ Key areas of interest include Scientific Machine Learning (SciML) for engineerin
 
 {% capture text %}
 
-Prof. Siddhesh Sakhalkar is the Principal Investigator of the M<sup>3</sup> Lab. As a new lab, we are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team!
+Prof. Siddhesh Sakhalkar is the Principal Investigator of the M<sup>3</sup> Lab. We are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Prof. Sakhalkar ([siddheshsakhalkar1992@gmail.com](mailto:siddheshsakhalkar1992@gmail.com)) and include your CV with research interests.
 
 {%
   include button.html
