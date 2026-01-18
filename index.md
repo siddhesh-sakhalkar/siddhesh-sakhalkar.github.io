@@ -41,7 +41,7 @@ Key areas of interest include Scientific Machine Learning (SciML) for engineerin
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Research_highlights.jpg"
   link="research"
   title="Research"
   flip=true
