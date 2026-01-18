@@ -18,7 +18,7 @@ Complex static and dynamic phenomena in solid and fluid mechanics are typically 
   camption="Overview of M<sup>3</sup> Lab's research"
 %}
 
-Fun fact about IIT Madras: in addition to being the [top ranked institute](https://www.iitm.ac.in/happenings/press-releases-and-coverages/celebrating-decade-excellence-iit-madras-tops-nirf-once#:~:text=The%20National%20Institutional%20Rankings%20Framework%20(NIRF)%20is,Development%20Goals**%20Ranked%20%231%2C%20introduced%20this%20year) in India, IIT Madras is also well-known for it's beautiful campus, boasting diverse flora and fauna. The picture on the header of our webiste is a [real photograph](https://commons.wikimedia.org/wiki/File:Deer_of_IIT_Madras_masatran_0058_0010.jpeg) of a couple of deer spotted on the campus! 
+Fun fact about IIT Madras: in addition to being the [top ranked institute](https://www.iitm.ac.in/happenings/press-releases-and-coverages/celebrating-decade-excellence-iit-madras-tops-nirf-once#:~:text=The%20National%20Institutional%20Rankings%20Framework%20(NIRF)%20is,Development%20Goals**%20Ranked%20%231%2C%20introduced%20this%20year) in India, IIT Madras is also well-known for it's beautiful campus, boasting diverse flora and fauna. The picture on the header of our website is a [real photograph](https://commons.wikimedia.org/wiki/File:Deer_of_IIT_Madras_masatran_0058_0010.jpeg) of a couple of deer spotted on the campus! 
 
 {% include section.html %}
 
