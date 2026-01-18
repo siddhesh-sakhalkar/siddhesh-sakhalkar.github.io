@@ -13,8 +13,8 @@ $wrap: 800px;
 
 .feature-image {
   flex-shrink: 0;
-  width: calc(1.3/1.5*40%);
-  aspect-ratio: 1.3;
+  width: calc(1.33/1.5*40%);
+  aspect-ratio: 4/3;
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
