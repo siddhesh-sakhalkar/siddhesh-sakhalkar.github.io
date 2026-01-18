@@ -5,29 +5,20 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}**Contact**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+If you would like to get in touch with us, please feel free to reach out to Prof. Sakhalkar. 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="siddheshsakhalkar1992@gmail.com"
+  link="siddheshsakhalkar1992@gmail.com"
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
+  type="Address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/fNF8nmiYiR3qtRdJ7?g_st=iw"
 %}
 
 {% include section.html %}
