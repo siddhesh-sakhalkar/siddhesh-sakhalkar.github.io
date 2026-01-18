@@ -74,7 +74,7 @@ Prof. Siddhesh Sakhalkar is the Principal Investigator of the M<sup>3</sup> Lab.
 
 {% capture text %}
 
-Please browse through our published work to learn more about our past research.
+Please browse through our published papers and patents to learn more about our past research.
 
 {%
   include button.html
