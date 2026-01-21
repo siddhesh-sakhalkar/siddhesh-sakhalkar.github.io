@@ -114,7 +114,7 @@ Our core expertise lies in developing theoretical frameworks, numerical models a
 
 {%
   include feature.html
-  image="images/Publications.jpg"
+  image="images/colab.png"
   link="contact"
   title="Collaborations and Parternships"
   flip=true
