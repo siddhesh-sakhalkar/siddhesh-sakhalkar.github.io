@@ -103,7 +103,7 @@ Our core expertise lies in developing theoretical frameworks, numerical models a
 
 {%
   include button.html
-  link="contacts"
+  link="contact"
   text="Contact us"
   icon="fa-solid fa-arrow-right"
   flip=true
