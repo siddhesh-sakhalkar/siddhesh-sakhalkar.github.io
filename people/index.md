@@ -25,9 +25,7 @@ Dr. Siddhesh Sakhalkar is an incoming Assistant Professor in the Department of M
 
 Dr. Sakhalkar holds a B.Tech. in Mechanical Engineering from Indian Institute of Technology Bombay (2014) and an M.S. and Ph.D. in Mechanical Engineering from the University of California, Berkeley (2020). He has seven years of industry experience, including five years as a Mechanical Simulation Engineer at Western Digital in San Jose, USA (2020&ndash;2025), and two years as a Mechanical Static Engineer at Shell in Bangalore, India (2014&ndash;2016). 
 
-Dr. Sakhalkar pursued his doctoral research under the supervision of Prof. [David Bogy](https://me.berkeley.edu/people/david-b-bogy/), where he developed numerical models to study nanoscale lubricant flow, air bearing dynamics, interfacial forces and heat transfer at the head-disk interface in hard disk drives. At Western Digital, he utilized advanced computational techniques and machine learning/statistical tools to optimize the structural design and dynamics of next-generation hard disk drives. 
-
-Dr. Sakhalkar is a recipient of the John and Janet McMurtry Fellowship, The Otto and Herta F. Kornei Endowment Fund Fellowship and the ASME 28th Conference on Information Storage and Processing Systems Best Paper Award. His full CV can be found here.
+Dr. Sakhalkar pursued his doctoral research under the supervision of Prof. [David Bogy](https://me.berkeley.edu/people/david-b-bogy/), where he developed numerical models to study nanoscale lubricant flow, air bearing dynamics, interfacial forces and heat transfer at the head-disk interface in hard disk drives. At Western Digital, he utilized advanced computational techniques and machine learning/statistical tools to optimize the structural design and dynamics of next-generation hard disk drives. He is a recipient of the John and Janet McMurtry Fellowship, The Otto and Herta F. Kornei Endowment Fund Fellowship and the ASME 28th Conference on Information Storage and Processing Systems Best Paper Award. His full CV can be found here.
 <div>
   {% for link in site.links %}
     {% assign key = link[0] %}
