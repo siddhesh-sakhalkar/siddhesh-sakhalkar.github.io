@@ -33,5 +33,11 @@ Our research focuses on understanding the fundamental physics of fluid flows and
 
 In particular, to accurately model micro- and nanoscale fluid flows, effects such as surface tension, slip boundary conditions, film thickness dependent viscosity, intermolecular forces, and surface roughness may need to be considered. Moreover, the working fluids in such systems commonly exhibit non-Newtonian characteristics (e.g., viscoelasticity, shear-rate dependent viscosity) that can significantly alter flow dynamics and fluid-structure coupling. At the M<sup>3</sup> lab, we develop advanced analytical and computational methods to resolve these complex flow fields and help build predictive frameworks for micro- and nanoscale engineering applications.
 
+{%
+  include figure.html
+  image="images/Fluid_Mechanics.png"
+  width="750px"
+  caption="Overview of M<sup>3</sup> Lab's research"
+%}
 
 {% include section.html %}
