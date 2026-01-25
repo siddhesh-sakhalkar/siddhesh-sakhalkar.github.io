@@ -25,6 +25,12 @@ At the M<sup>3</sup> lab, we develop physics-based and data-driven models to pre
 
 Our research focuses on developing probabilistic simulation methods to quantify variability in the static and dynamic response of engineering structures caused by uncertainty in material properties, geometry or loading. We also develop scalable deep learning frameworks for robust estimation and classification of modal parameters from large-scale, experimentally acquired frequency response function (FRF) datasets. Collectively, our research helps predict and improve both the nominal structural response and device-to-device response variation of electromechanical devices.
 
+{%
+  include figure.html
+  image="images/Fluid_Mechanics.png"
+  width="1000px"
+%}
+
 {% include section.html %}
 
 ## **(3) Micro- and Nanoscale Fluid Mechanics and Fluid-Structure Interactions**
