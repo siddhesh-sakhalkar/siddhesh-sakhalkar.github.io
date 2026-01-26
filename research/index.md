@@ -20,7 +20,7 @@ To address this challenge, we build new SciML models using state-of-the-art fram
 {%
   include figure.html
   image="images/SciML.png"
-  width="700px"
+  width="800px"
 %}
 
 {% include section.html %}
