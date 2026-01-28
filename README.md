@@ -5,6 +5,6 @@
 
   # siddhesh-sakhalkar's Website
 
-  Visit **[siddhesh-sakhalkar.github.io](https://siddhesh-sakhalkar.github.io)** 🚀
+  Visit **[mcubedlab.com](http://mcubedlab.com)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
