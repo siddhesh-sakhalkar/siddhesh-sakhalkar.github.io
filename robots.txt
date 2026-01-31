@@ -1,1 +1,1 @@
-Sitemap: http://mcubedlab.com/sitemap.xml
+Sitemap: https://mcubedlab.com/sitemap.xml
