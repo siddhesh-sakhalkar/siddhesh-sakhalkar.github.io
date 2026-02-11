@@ -99,7 +99,7 @@ Please review our published papers and patents to learn more about our prior res
 
 {% capture text %}
 
-Our core expertise lies in developing theoretical frameworks, numerical models and machine learning methodologies to study static and dynamic problems in solid and fluid mechanics. If you are interested in collaborating with us on a research project, please feel free to contact us.
+Our core expertise lies in developing theoretical frameworks, numerical models and machine learning methodologies to study static and dynamic problems in solid mechanics, fluid mechanics and heat transfer. If you are interested in collaborating with us on a research project, please feel free to contact us.
 
 {%
   include button.html
