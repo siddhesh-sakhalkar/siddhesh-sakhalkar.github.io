@@ -7,9 +7,9 @@ nav:
 
 # **Mechanics, Modeling and Machine Learning (M<sup>3</sup>) Lab**
  
-Welcome to the M<sup>3</sup> Lab at the Indian Institute of Technology (IIT) Madras! We work at the intersection of mechanics, computational science and artificial intelligence to design, simulate and optimize next-generation systems and devices. In particular, we focus on developing physics-based and data-driven models to understand and predict the mechanical behavior of engineering systems across multiple length scales, from macroscale to micro and nano regimes.
+Welcome to the M<sup>3</sup> Lab at the Indian Institute of Technology (IIT) Madras! We work at the intersection of mechanics, computational science and artificial intelligence (AI) to design, simulate and optimize next-generation systems and devices. In particular, we focus on developing physics-based and data-driven models to understand and predict the mechanical behavior of engineering systems across multiple length scales, from macroscale to micro and nano regimes.
 
-Complex static and dynamic phenomena in solid and fluid mechanics are typically governed by non-linear partial differential equations (PDEs). Our lab develops analytical techniques, numerical models (including Finite Difference, Finite Element, Finite Volume models) and state-of-the-art machine learning methodologies (such as neural operators, foundation models) for accurate and efficient solution of these PDEs. We use these models to support downstream tasks of practical relevance such as design optimization, uncertainty quantification and inverse problems, with applications in diverse domains including micro/nanofluidics, hydrodynamic and elasto-hydrodynamic lubrication, data storage (e.g., hard disk drives), 3D Integrated Circuits (ICs) and micro-electro-mechanical systems (MEMS).
+Complex static and dynamic phenomena in solid and fluid mechanics are typically governed by non-linear partial differential equations (PDEs). Our lab develops analytical techniques, numerical methods (including Finite Difference, Finite Element, Finite Volume methods) and state-of-the-art AI models (such as neural operators, foundation models) for accurate and efficient solution of these PDEs. We use these models to support downstream tasks of practical relevance such as design optimization, uncertainty quantification and inverse problems, with applications in diverse domains including micro/nanofluidics, hydrodynamic and elasto-hydrodynamic lubrication, data storage (e.g., hard disk drives), 3D Integrated Circuits (ICs) and micro-electro-mechanical systems (MEMS).
 
 {%
   include figure.html
@@ -99,7 +99,7 @@ Please review our published papers and patents to learn more about our prior res
 
 {% capture text %}
 
-Our core expertise lies in developing theoretical frameworks, numerical models and machine learning methodologies to study static and dynamic problems in solid mechanics, fluid mechanics and heat transfer. If you are interested in collaborating with us on a research project, please feel free to contact us.
+Our core expertise lies in developing theoretical frameworks, numerical methods and AI models to investigate static and dynamic problems in solid mechanics, fluid mechanics and heat transfer. If you are interested in collaborating with us on a research project, please feel free to contact us.
 
 {%
   include button.html
