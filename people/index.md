@@ -21,7 +21,7 @@ We are actively looking for motivated undergraduate, graduate (Masters/PhD) and 
 %}
 
 ### **<span style="font-size: 1.1em;">Bio</span>**
-Dr. Siddhesh Sakhalkar is an Assistant Professor in the Department of Mechanical Engineering at the Indian Institute of Technology Madras, where he leads the Mechanics, Modeling and Machine Learning (M<sup>3</sup>) Lab. His research focuses on developing theoretical frameworks, numerical models and artificial intelligence methodologies to understand and predict the mechanical behavior of complex engineering systems across multiple length scales, from macro to micro and nano. 
+Dr. Siddhesh Sakhalkar is an Assistant Professor in the Department of Mechanical Engineering at the Indian Institute of Technology Madras, where he leads the Mechanics, Modeling and Machine Learning (M<sup>3</sup>) Lab. His research focuses on developing theoretical frameworks, numerical methods and artificial intelligence models to understand and predict the mechanical behavior of complex engineering systems across multiple length scales, from macro to micro and nano. 
 
 Dr. Sakhalkar holds a B.Tech. in Mechanical Engineering from Indian Institute of Technology Bombay and an M.S. and Ph.D. in Mechanical Engineering from the University of California, Berkeley. He has seven years of industry experience, including five years as a Mechanical Simulation Engineer at Western Digital in San Jose, USA, and two years as a Mechanical Static Engineer at Shell in Bangalore, India. 
 
