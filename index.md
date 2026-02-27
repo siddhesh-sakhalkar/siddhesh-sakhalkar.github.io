@@ -7,9 +7,9 @@ nav:
 
 # **Mechanics, Modeling and Machine Learning (M<sup>3</sup>) Lab**
  
-Welcome to the M<sup>3</sup> Lab at the Indian Institute of Technology (IIT) Madras! We work at the intersection of mechanics, computational science and artificial intelligence (AI) to design, simulate and optimize next-generation systems and devices. In particular, we focus on developing physics-based and data-driven models to understand and predict the mechanical behavior of engineering systems across multiple length scales, from macroscale to micro and nano regimes.
+Welcome to the M<sup>3</sup> Lab at the Indian Institute of Technology (IIT) Madras! We work at the intersection of mechanics, computational science and artificial intelligence to design, simulate and optimize next-generation systems and devices. In particular, we focus on developing physics-based and data-driven models to predict the mechanical behavior of complex engineering systems across multiple length scales, from macroscale to micro and nano regimes.
 
-Complex static and dynamic phenomena in solid and fluid mechanics are typically governed by non-linear partial differential equations (PDEs). Our lab develops analytical techniques, numerical methods (including Finite Difference, Finite Element, Finite Volume methods) and state-of-the-art AI models (such as neural operators, foundation models) for accurate and efficient solution of these PDEs. We use these models to support downstream tasks of practical relevance such as design optimization, uncertainty quantification and inverse problems, with applications in diverse domains including micro/nanofluidics, hydrodynamic and elasto-hydrodynamic lubrication, data storage (e.g., hard disk drives), 3D Integrated Circuits (ICs) and micro-electro-mechanical systems (MEMS).
+Complex static and dynamic phenomena in solid and fluid mechanics are typically governed by non-linear partial differential equations (PDEs). Our lab develops analytical techniques, numerical methods (including finite difference, finite element, finite volume methods) and scientific machine learning models (including neural operators, foundation models) for accurate and efficient solution of these PDEs. We use these models to support downstream tasks of practical relevance such as design optimization, uncertainty quantification and inverse problems, with applications in diverse domains including micro/nanofluidics, hydrodynamic and elasto-hydrodynamic lubrication, data storage (e.g., hard disk drives), 3D Integrated Circuits (ICs) and micro-electro-mechanical systems (MEMS).
 
 {%
   include figure.html
@@ -26,7 +26,7 @@ Fun fact about IIT Madras: in addition to being the [top ranked institute](https
 
 {% capture text %}
 
-Key areas of interest include: (1) Scientific Machine Learning for Engineering Simulations, (2) Structural Mechanics and Dynamics, with a focus on System Identification, Design Optimization and Uncertainty Quantification, (3) Fluid Mechanics and Fluid-Structure Interactions, particularly at the micro- and nanoscale.
+Key areas of interest include: (1) scientific machine learning for engineering simulations, (2) structural mechanics and dynamics, with a focus on system identification, design optimization and uncertainty quantification, (3) fluid mechanics and fluid-structure interactions, particularly at the micro- and nanoscale.
 
 {%
   include button.html
@@ -51,7 +51,7 @@ Key areas of interest include: (1) Scientific Machine Learning for Engineering S
 
 {% capture text %}
 
-Prof. Siddhesh Sakhalkar is the Principal Investigator of the M<sup>3</sup> Lab. We are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Prof. Sakhalkar ([siddheshsakhalkar1992@gmail.com](mailto:siddheshsakhalkar1992@gmail.com)) and include your CV with research interests.
+Prof. Siddhesh Sakhalkar is the principal investigator of the M<sup>3</sup> Lab. We are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Prof. Sakhalkar ([siddheshsakhalkar1992@gmail.com](mailto:siddheshsakhalkar1992@gmail.com)) and include your CV with research interests.
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Prof. Siddhesh Sakhalkar is the Principal Investigator of the M<sup>3</sup> Lab.
 
 {% capture text %}
 
-Please review our published papers and patents to learn more about our prior research. In particular, we encourage you to explore our recent work that combines statistical analysis of measured population Frequency Response Function data with Finite Element Method simulations to predict device-to-device variations during high-volume manufacturing.
+Please review our published papers and patents to learn more about our prior research. In particular, we encourage you to explore our recent work that combines statistical analysis of measured population frequency response function data with finite element method simulations to predict device-to-device variations during high-volume manufacturing.
 
 {%
   include button.html
@@ -99,7 +99,7 @@ Please review our published papers and patents to learn more about our prior res
 
 {% capture text %}
 
-Our core expertise lies in developing theoretical frameworks, numerical methods and AI models to investigate static and dynamic problems in solid mechanics, fluid mechanics and heat transfer. If you are interested in collaborating with us on a research project, please feel free to contact us.
+Our core expertise lies in developing theoretical frameworks, numerical methods and scientific machine learning models to investigate static and dynamic problems in solid mechanics, fluid mechanics and heat transfer. If you are interested in collaborating with us on a research project, please feel free to contact us.
 
 {%
   include button.html
