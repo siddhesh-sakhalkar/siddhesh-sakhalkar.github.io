@@ -51,7 +51,7 @@ Key areas of interest include: (1) scientific machine learning for engineering s
 
 {% capture text %}
 
-Prof. Siddhesh Sakhalkar is the principal investigator of the M<sup>3</sup> Lab. We are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Prof. Sakhalkar ([siddheshsakhalkar1992@gmail.com](mailto:siddheshsakhalkar1992@gmail.com)) and include your CV with research interests.
+Prof. Siddhesh Sakhalkar is the principal investigator of the M<sup>3</sup> Lab. We are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Prof. Sakhalkar ([ssakhalkar@iitm.ac.in](mailto:ssakhalkar@iitm.ac.in)) and include your CV with research interests.
 
 {%
   include button.html
