@@ -9,11 +9,14 @@ nav:
 
 If you would like to get in touch with us, please feel free to reach out to Prof. Sakhalkar.
 
-## **Office Address:**
-204, Ranganathan Building - Manufacturing Engineering Section, 
-Department of Mechanical Engineering,
-IIT Madras,
-Chennai - 600036, 
+### **Email Address:**
+[ssakhalkar@iitm.ac.in](mailto:ssakhalkar@iitm.ac.in)
+
+### **Office Address:**
+Room No. 204, Ranganathan Building - Manufacturing Engineering Section,\
+Department of Mechanical Engineering,\
+IIT Madras,\
+Chennai - 600036,\
 Tamil Nadu, India
 
 {%
