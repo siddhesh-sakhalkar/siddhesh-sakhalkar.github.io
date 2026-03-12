@@ -9,7 +9,7 @@ nav:
 
 If you would like to get in touch with us, please feel free to reach out to Prof. Sakhalkar.
 
-Office Address:
+## **Office Address:**
 204, Ranganathan Building - Manufacturing Engineering Section, 
 Department of Mechanical Engineering,
 IIT Madras,
