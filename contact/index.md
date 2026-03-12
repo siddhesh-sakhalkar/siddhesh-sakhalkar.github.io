@@ -15,7 +15,7 @@ If you would like to get in touch with us, please feel free to reach out to Prof
 ### **Office Address:**
 Room No. 204, Ranganathan Building - Manufacturing Engineering Section,\
 Department of Mechanical Engineering,\
-IIT Madras,\
+Indian Institute of Technology Madras,\
 Chennai - 600036,\
 Tamil Nadu, India
 
