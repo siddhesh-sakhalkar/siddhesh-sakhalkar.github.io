@@ -11,9 +11,9 @@ If you would like to get in touch with us, please feel free to reach out to Prof
 {%
   include button.html
   type="email"
-  text="siddheshsakhalkar1992@gmail.com"
+  text="ssakhalkar@iitm.ac.in"
   tooltip="Email address"
-  link="siddheshsakhalkar1992@gmail.com"
+  link="ssakhalkar@iitm.ac.in"
 %}
 {%
   include button.html
