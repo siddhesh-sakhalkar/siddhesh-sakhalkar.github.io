@@ -10,7 +10,7 @@ nav:
 If you would like to get in touch with us, please feel free to reach out to Prof. Sakhalkar.
 
 ### **Email Address:**
-[ssakhalkar@iitm.ac.in](mailto:ssakhalkar@iitm.ac.in)
+[ssakhalkar@iitm.ac.in](mailto:ssakhalkar@iitm.ac.in) (ssakhalkar[at]iitm[dot]ac[dot]in)
 
 ### **Office Address:**
 Room No. 204, Ranganathan Building - Manufacturing Engineering Section,\
