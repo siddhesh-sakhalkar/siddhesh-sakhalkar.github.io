@@ -17,7 +17,8 @@ Room No. 204, Ranganathan Building - Manufacturing Engineering Section,\
 Department of Mechanical Engineering,\
 Indian Institute of Technology Madras,\
 Chennai - 600036,\
-Tamil Nadu, India
+Tamil Nadu, India \
+Google Maps Link: https://maps.app.goo.gl/KZy98cUPafHGLj4n7
 
 {%
   include button.html
