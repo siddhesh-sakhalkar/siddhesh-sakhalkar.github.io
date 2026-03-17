@@ -68,13 +68,13 @@ header a {
 
 .title {
   font-size: calc(var(--xxl) * 1.2);
-  line-height: 1;
+  //line-height: 1;
 }
 
 .subtitle {
   opacity: 0.65;
   font-weight: var(--thin);
-  line-height: 1;
+  //line-height: 1;
   margin-top: -3px;
   // font-size: 22px;
 }
