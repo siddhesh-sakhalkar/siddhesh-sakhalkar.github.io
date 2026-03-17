@@ -58,7 +58,8 @@ header a {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  gap: -10px;
+  gap: 0px;
+  line-height: 1.05;
   
   min-width: 0;
   font-family: var(--title);
@@ -67,11 +68,13 @@ header a {
 
 .title {
   font-size: calc(var(--xxl) * 1.2);
+  line-height: 1;
 }
 
 .subtitle {
   opacity: 0.65;
   font-weight: var(--thin);
+  line-height: 1;
   // font-size: 22px;
 }
 
