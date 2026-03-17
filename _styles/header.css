@@ -34,6 +34,7 @@ header a {
   justify-content: center;
   align-items: flex-start;
   gap: 0px;
+  line-height: 1;
   min-width: 0;
   font-family: var(--title);
   text-align: left;
