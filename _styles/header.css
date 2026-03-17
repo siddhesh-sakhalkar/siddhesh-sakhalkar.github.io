@@ -49,6 +49,7 @@ header a {
   opacity: 0.65;
   font-weight: var(--thin);
   line-height: 1;
+  margin-top: -2px;
 }
 
 .nav-toggle {
