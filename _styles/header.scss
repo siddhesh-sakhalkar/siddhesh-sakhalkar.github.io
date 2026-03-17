@@ -55,19 +55,10 @@ header a {
 
 .title-text {
   display: flex;
-  justify-content: flex-start;
-  align-items: baseline;
-  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
   gap: 5px;
-
-  //flex-wrap: nowrap;   //  ADD THIS
-  //white-space: nowrap; //  ADD THIS
-  // For non-big headers, force the title and subtitle to stack
-  @media (max-width: $collapse) {  
-    flex-direction: column;  // Stack title and subtitle vertically
-    align-items: flex-start;
-    text-align: left;
-  }
   
   min-width: 0;
   font-family: var(--title);
