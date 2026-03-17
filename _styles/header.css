@@ -33,7 +33,7 @@ header a {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  gap: 0px;
+  gap: -10px;
   min-width: 0;
   font-family: var(--title);
   text-align: left;
