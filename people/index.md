@@ -38,6 +38,14 @@ During his doctoral research, conducted under the supervision of Prof. [David Bo
 ## **<span style="font-size: 1.3em;">Current Students</span>**
 
 {% include photo_bio.html
+  image="images/Henrik_Lind_headshot.jpg"
+  name="Henrik Lind"
+  subtitle="External Undergraduate Researcher (University of Minnesota Duluth)"
+  details="Research Interests: Scientific Machine Learning, computational science, computer graphics. "
+  size = "lg"
+%}
+
+{% include photo_bio.html
   image="images/Propective_student_headshot.png"
   name="This could be you!"
 %}
