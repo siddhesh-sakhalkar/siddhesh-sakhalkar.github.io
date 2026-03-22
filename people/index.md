@@ -48,4 +48,5 @@ During his doctoral research, conducted under the supervision of Prof. [David Bo
 {% include photo_bio.html
   image="images/Propective_student_headshot.png"
   name="This could be you!"
+  size = "lg"
 %}
