@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}**Research**
 
-Our research interests fall in the following categories: (1) scientific machine learning for engineering simulations, (2) structural mechanics and dynamics, with a focus on system identification, design optimization and uncertainty quantification, (3) fluid mechanics and fluid-structure interactions, particularly at the micro- and nanoscale. [Here](/documents/Siddhesh_Sakhalkar_Research.ppt) is a one-slide summary of our research. More information is given below by category. 
+Our research interests fall in the following categories: (1) scientific machine learning for engineering simulations, (2) structural mechanics and dynamics, with a focus on system identification, design optimization and uncertainty quantification, (3) fluid mechanics and fluid-structure interactions, particularly at the micro- and nanoscale. [Here](/documents/Siddhesh_Sakhalkar_Research.pdf) is a one-slide summary of our research. More information is given below by category. 
 
 {% include section.html %}
 
