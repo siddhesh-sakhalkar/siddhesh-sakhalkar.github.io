@@ -43,13 +43,13 @@ Ph.D. student, IIT Madras \
 
 ### Henrik Lind
 External Undergraduate Researcher, University of Minnesota, Duluth \
-**Research Interests:** scientific machine learning, computational science, computer graphics \
-Jointly advised with Prof. [Richard Davis](https://scse.d.umn.edu/faculty-staff/richard-davis), University of Minnesota, Duluth
+Jointly advised with Prof. [Richard Davis](https://scse.d.umn.edu/faculty-staff/richard-davis), University of Minnesota, Duluth \
+**Research Interests:** scientific machine learning, computational science, computer graphics
 
 ### Aditi Vaidya
 Undergraduate Student, IIT Madras \
-**Research Interests:** scientific machine learning, constrained online convex optimization, applied mathematics \
-Jointly advised with Prof. [Abhishek Sinha](https://www.tifr.res.in/~abhishek.sinha/), Tata Institute of Fundamental Research (TIFR)
+Jointly advised with Prof. [Abhishek Sinha](https://www.tifr.res.in/~abhishek.sinha/), Tata Institute of Fundamental Research (TIFR)\
+**Research Interests:** scientific machine learning, constrained online convex optimization, applied mathematics
 
 ### Ameya Pandey
 Undergraduate Student, IIT Madras \
@@ -69,11 +69,11 @@ Undergraduate Student, IIT Madras \
 
 ### Arjun Arunachalam
 Undergraduate Student, IIT Madras \
-Research Interests: scientific machine learning, applied mathematics, structural dynamics
+**Research Interests:** scientific machine learning, applied mathematics, structural dynamics
 
 ### Bhagwat Makwana
 Undergraduate Student, IIT Madras \
-Research Interests: scientific machine learning, fluid mechanics, robotics
+**Research Interests:** scientific machine learning, fluid mechanics, robotics
 
 <!--
 {% include photo_bio.html
