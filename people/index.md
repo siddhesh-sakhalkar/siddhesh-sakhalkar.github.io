@@ -39,33 +39,33 @@ During his doctoral research, conducted under the supervision of Prof. [David Bo
 
 ### Chirontan Bhuyan
 Ph.D. student, IIT Madras \
-Research Interests: fluid mechanics, scientific machine learning
+**Research Interests:** fluid mechanics, scientific machine learning
 
 ### Henrik Lind
 External Undergraduate Researcher, University of Minnesota, Duluth \
-Research Interests: scientific machine learning, computational science, computer graphics \
+**Research Interests:** scientific machine learning, computational science, computer graphics \
 Jointly advised with Prof. [Richard Davis](https://scse.d.umn.edu/faculty-staff/richard-davis), University of Minnesota, Duluth
 
 ### Aditi Vaidya
 Undergraduate Student, IIT Madras \
-Research Interests: scientific machine learning, constrained online convex optimization, applied mathematics \
+**Research Interests:** scientific machine learning, constrained online convex optimization, applied mathematics \
 Jointly advised with Prof. [Abhishek Sinha](https://www.tifr.res.in/~abhishek.sinha/), Tata Institute of Fundamental Research (TIFR)
 
 ### Ameya Pandey
 Undergraduate Student, IIT Madras \
-Research Interests: scientific machine learning, fluid mechanics, robotics
+**Research Interests:** scientific machine learning, fluid mechanics, robotics
 
 ### Akshith Nair
 Undergraduate Student, IIT Madras \
-Research Interests: scientific machine learning, structural mechanics
+**Research Interests:** scientific machine learning, structural mechanics
 
 ### Lalith Sharavanan
 Undergraduate Student, IIT Madras \
-Research Interests: scientific machine learning, fluid mechanics, heat transfer
+**Research Interests:** scientific machine learning, fluid mechanics, heat transfer
 
 ### Ritvik Ghosh
 Undergraduate Student, IIT Madras \
-Research Interests: scientific machine learning, fluid mechanics, aerodynamics
+**Research Interests:** scientific machine learning, fluid mechanics, aerodynamics
 
 ### Arjun Arunachalam
 Undergraduate Student, IIT Madras \
