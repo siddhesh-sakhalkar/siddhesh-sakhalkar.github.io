@@ -7,14 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}**People**
 
-We are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Prof. Sakhalkar ([ssakhalkar@iitm.ac.in](mailto:ssakhalkar@iitm.ac.in)) and include your CV with research interests. We welcome researchers from diverse backgrounds including mechanical engineering, civil engineering, applied mechanics, mathematics, computer science, data science & AI and related fields.
+We are actively looking for motivated undergraduate, graduate (Masters/PhD) and post-doctoral candidates to join our team! If you would like to join us, please contact Dr. Sakhalkar ([ssakhalkar@iitm.ac.in](mailto:ssakhalkar@iitm.ac.in) or [ssakhalkar@smail.iitm.ac.in](mailto:ssakhalkar@smail.iitm.ac.in)) and include your CV with research interests. We welcome researchers from diverse backgrounds including mechanical engineering, civil engineering, applied mechanics, mathematics, computer science, data science & AI and related fields.
 
 {% include section.html %}
 ## **<span style="font-size: 1.3em;">Principal Investigator</span>**
 
 {% include photo_bio.html
   image="images/Siddhesh_Sakhalkar_headshot.jpg"
-  name="Prof. Siddhesh Sakhalkar"
+  name="Dr. Siddhesh Sakhalkar"
   subtitle="Assistant Professor"
   details="Department of Mechanical Engineering<br> Indian Institute of Technology (IIT) Madras"
   size = "lg"
@@ -64,7 +64,7 @@ Jointly advised with Prof. [Richard Davis](https://scse.d.umn.edu/faculty-staff/
 
 ### Aditi Vaidya
 Undergraduate Student, IIT Madras \
-Jointly advised with Prof. [Abhishek Sinha](https://www.tifr.res.in/~abhishek.sinha/), Tata Institute of Fundamental Research (TIFR)\
+Jointly advised with Dr. [Abhishek Sinha](https://www.tifr.res.in/~abhishek.sinha/), Tata Institute of Fundamental Research (TIFR)\
 **Research Interests:** scientific machine learning, constrained online convex optimization, applied mathematics
 
 ### Ameya Pandey
