@@ -37,9 +37,25 @@ During his doctoral research, conducted under the supervision of Prof. [David Bo
 {% include section.html %}
 ## **<span style="font-size: 1.3em;">Current Students</span>**
 
+### Graduate Students
+
 ### Chirontan Bhuyan
 Ph.D. student, IIT Madras \
 **Research Interests:** fluid mechanics, scientific machine learning
+
+### Rudresh Singh
+M.Tech. student, IIT Madras \
+**Research Interests:** structural mechanics, scientific machine learning
+
+### Pranav Vijayakumar
+M.Tech. student, IIT Madras \
+**Research Interests:** structural mechanics, fluid mechanics, topology optimization, scientific machine learning
+
+### Debasis Ruidas
+M.Tech. student, IIT Madras \
+**Research Interests:** structural mechanics, scientific machine learning
+
+## Undergraduate Students
 
 ### Henrik Lind
 External Undergraduate Researcher, University of Minnesota, Duluth \
