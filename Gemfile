@@ -15,3 +15,5 @@ group :jekyll_plugins do
 #  gem "jekyll-last-modified-at" # old
   gem "jekyll-last-modified-at", "~> 1.3.2"
 end
+
+gem "io-event", "= 1.11.2"
