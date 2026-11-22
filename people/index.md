@@ -87,9 +87,9 @@ Undergraduate Student, IIT Madras \
 Undergraduate Student, IIT Madras \
 **Research Interests:** scientific machine learning, applied mathematics, structural dynamics
 
-### Bhagwat Makwana
+### Sai Sham SR
 Undergraduate Student, IIT Madras \
-**Research Interests:** scientific machine learning, fluid mechanics, robotics
+**Research Interests:** scientific machine learning, fluid mechanics
 
 <!--
 {% include photo_bio.html
