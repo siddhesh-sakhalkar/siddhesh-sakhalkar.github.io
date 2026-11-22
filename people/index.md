@@ -37,7 +37,7 @@ During his doctoral research, conducted under the supervision of Prof. [David Bo
 {% include section.html %}
 ## **<span style="font-size: 1.3em;">Current Students</span>**
 
-### Graduate Students
+## Graduate Students
 
 ### Chirontan Bhuyan
 Ph.D. student, IIT Madras \
