@@ -10,8 +10,8 @@ nav:
 If you would like to get in touch with us, please feel free to reach out to Dr. Sakhalkar.
 
 ### **Email Address:**
-[ssakhalkar@iitm.ac.in](mailto:ssakhalkar@iitm.ac.in) (ssakhalkar[at]iitm[dot]ac[dot]in) 
-or [ssakhalkar@smail.iitm.ac.in](mailto:ssakhalkar@smail.iitm.ac.in) (ssakhalkar[at]smail[dot]iitm[dot]ac[dot]in)
+[ssakhalkar@iitm.ac.in](mailto:ssakhalkar@iitm.ac.in) (ssakhalkar[at]iitm[dot]ac[dot]in) or  \
+[ssakhalkar@smail.iitm.ac.in](mailto:ssakhalkar@smail.iitm.ac.in) (ssakhalkar[at]smail[dot]iitm[dot]ac[dot]in)
 
 ### **Office/Lab Address:**
 Room No. 216, Machine Design Section,\
